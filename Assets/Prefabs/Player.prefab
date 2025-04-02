@@ -231,6 +231,8 @@ MonoBehaviour:
   cannonBall: {fileID: 5348650875245485514, guid: 45284dfd40217954eb1d790f1b2f08ea, type: 3}
   aim: {fileID: 1452796409161722208}
   speed: 10
+  color: {r: 0, g: 0, b: 0, a: 0}
+  sr: {fileID: 6782107714099243929}
 --- !u!114 &4420171051565497508
 MonoBehaviour:
   m_ObjectHideFlags: 0
